@@ -57,16 +57,16 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Fredie_Tech.sendMessage(Pair_Code_By_Fredie_Tech.user.id, { text: '' + b64data });
 
                let FREDI_TECH_TEXT = `
-✞︎𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒✞︎
+✞︎𝑴𝑼𝑺𝑻𝑨𝑭𝑭𝑨 𝑴𝑫 𝑺𝑬𝑺𝑺𝑰𝑶𝑵𝑺✞︎
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🤦  Creator ☞ ✞︎𝐏𝐎𝐏𝐊𝐈𝐃✞︎
+🤦  Creator ☞ ✞︎𝑴𝑼𝑺𝑻𝑨𝑭𝑭𝑨✞︎
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🫂  WhattsApp Channel ☞ https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🥂 Contact Owne ☞ https://wa.me/254732297194
-POPKIDTECH
+MUSTAFFATECH
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-> ©*POPKID TECH 2025 SCRIPT*
+> ©*MUSTAFFA TECH 2025 SCRIPT*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Popkid_Tech.sendMessage(Pair_Code_By_popkidTech.user.id,{text:POPKID_TECH_TEXT},{quoted:session})
