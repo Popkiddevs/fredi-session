@@ -61,9 +61,9 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🤦  Creator ☞ ✞︎𝑴𝑼𝑺𝑻𝑨𝑭𝑭𝑨✞︎
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🫂  WhattsApp Channel ☞ https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+🫂  WhattsApp Channel ☞ https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🥂 Contact Owne ☞ https://wa.me/254732297194
+🥂 Contact Owne ☞ https://wa.me/254758755663
 MUSTAFFATECH
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 > ©*MUSTAFFA TECH 2025 SCRIPT*
